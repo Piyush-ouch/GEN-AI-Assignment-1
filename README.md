@@ -13,8 +13,8 @@ A complete, ground-up implementation of a Multi-Class Feedforward Neural Network
 
 | Field | Details |
 | :--- | :--- |
-| **Student Name** | **Piyush Jangade** |
-| **PRN Number** | **20240111040** |
+| **Student Name** | **Piyush Jangade and Himanshu gharde** |
+| **PRN Number** | **20240111040 and 202401110007** |
 | **Batch** | **A1** |
 | **Course** | **Generative AI Lab** |
 | **Department** | **CSE AIML** |
